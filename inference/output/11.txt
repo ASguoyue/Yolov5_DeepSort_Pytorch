@@ -1,0 +1,46 @@
+精准识别小天眼 11 45 3
+frame:001 0
+frame:002 0
+frame:003 0
+frame:004 0
+frame:005 0
+frame:006 0
+frame:007 1 object:1 1274 234
+frame:008 0
+frame:009 0
+frame:010 0
+frame:011 0
+frame:012 0
+frame:013 0
+frame:014 0
+frame:015 0
+frame:016 0
+frame:017 0
+frame:018 0
+frame:019 0
+frame:020 0
+frame:021 0
+frame:022 0
+frame:023 0
+frame:024 3 object:2 357 251 object:3 199 161 object:4 317 241
+frame:025 3 object:2 357 251 object:3 199 161 object:4 317 241
+frame:026 3 object:2 356 250 object:3 199 161 object:4 317 241
+frame:027 3 object:2 356 250 object:3 201 161 object:4 316 241
+frame:028 3 object:2 356 250 object:3 201 161 object:4 316 241
+frame:029 3 object:2 356 250 object:3 202 161 object:4 316 241
+frame:030 3 object:2 356 251 object:3 203 161 object:4 316 241
+frame:031 3 object:2 356 251 object:3 203 162 object:4 316 241
+frame:032 3 object:2 356 251 object:3 204 162 object:4 316 241
+frame:033 3 object:2 356 251 object:3 205 162 object:4 316 241
+frame:034 3 object:2 356 251 object:3 206 163 object:4 316 241
+frame:035 3 object:2 356 251 object:3 207 163 object:4 316 241
+frame:036 3 object:2 356 251 object:3 208 163 object:4 317 241
+frame:037 3 object:2 356 250 object:3 209 164 object:4 317 241
+frame:038 3 object:2 356 251 object:3 209 164 object:4 317 241
+frame:039 3 object:2 356 251 object:3 211 164 object:4 316 241
+frame:040 3 object:2 356 251 object:3 211 164 object:4 316 241
+frame:041 3 object:2 356 250 object:3 212 164 object:4 316 241
+frame:042 3 object:2 356 250 object:3 213 164 object:4 316 241
+frame:043 3 object:2 356 250 object:3 214 164 object:4 316 241
+frame:044 3 object:2 356 250 object:3 214 164 object:4 316 240
+frame:045 3 object:2 356 249 object:3 215 164 object:4 316 240

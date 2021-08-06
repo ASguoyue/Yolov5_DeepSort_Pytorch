@@ -1,0 +1,251 @@
+精准识别小天眼 1 250 3
+frame:001 0
+frame:002 0
+frame:003 0
+frame:004 0
+frame:005 1 object:1 440 475
+frame:006 1 object:1 440 475
+frame:007 1 object:1 440 473
+frame:008 1 object:1 439 472
+frame:009 1 object:1 438 471
+frame:010 1 object:1 438 470
+frame:011 1 object:1 437 471
+frame:012 1 object:1 437 471
+frame:013 1 object:1 437 471
+frame:014 1 object:1 436 472
+frame:015 1 object:1 436 472
+frame:016 1 object:1 436 473
+frame:017 1 object:1 435 474
+frame:018 1 object:1 435 474
+frame:019 1 object:1 435 474
+frame:020 1 object:1 434 475
+frame:021 1 object:1 434 475
+frame:022 1 object:1 434 475
+frame:023 1 object:1 433 476
+frame:024 1 object:1 433 476
+frame:025 1 object:1 432 476
+frame:026 1 object:1 431 476
+frame:027 1 object:1 431 477
+frame:028 1 object:1 430 477
+frame:029 1 object:1 429 476
+frame:030 1 object:1 429 476
+frame:031 1 object:1 429 475
+frame:032 1 object:1 428 474
+frame:033 1 object:1 428 474
+frame:034 2 object:1 428 472 object:2 634 476
+frame:035 2 object:1 427 469 object:2 633 474
+frame:036 2 object:1 427 467 object:2 633 474
+frame:037 3 object:1 426 465 object:2 632 472 object:3 506 476
+frame:038 4 object:1 426 461 object:2 632 471 object:3 508 474 object:4 635 468
+frame:039 4 object:1 426 460 object:2 631 471 object:3 508 474 object:4 635 468
+frame:040 4 object:1 426 456 object:2 631 470 object:3 508 472 object:4 635 464
+frame:041 4 object:1 425 452 object:2 631 469 object:3 507 469 object:4 635 459
+frame:042 4 object:1 425 451 object:2 631 468 object:3 507 469 object:4 635 458
+frame:043 5 object:1 424 448 object:2 630 467 object:3 507 468 object:4 634 455 object:5 506 464
+frame:044 5 object:1 423 443 object:2 630 467 object:3 507 466 object:4 634 450 object:5 505 460
+frame:045 5 object:1 423 441 object:2 630 466 object:3 508 465 object:4 634 449 object:5 505 459
+frame:046 5 object:1 422 438 object:2 629 465 object:3 508 464 object:4 633 445 object:5 505 455
+frame:047 5 object:1 422 433 object:2 629 464 object:3 508 463 object:4 633 440 object:5 504 450
+frame:048 5 object:1 421 431 object:2 629 464 object:3 508 462 object:4 633 439 object:5 503 448
+frame:049 5 object:1 421 427 object:2 628 462 object:3 508 461 object:4 633 435 object:5 503 444
+frame:050 5 object:1 420 422 object:2 628 462 object:3 508 460 object:4 632 430 object:5 502 439
+frame:051 5 object:1 420 420 object:2 628 461 object:3 508 459 object:4 632 428 object:5 502 438
+frame:052 5 object:1 420 416 object:2 628 460 object:3 508 458 object:4 632 424 object:5 502 433
+frame:053 5 object:1 419 411 object:2 627 459 object:3 508 457 object:4 632 418 object:5 501 428
+frame:054 5 object:1 418 409 object:2 627 459 object:3 508 456 object:4 631 417 object:5 501 427
+frame:055 5 object:1 418 405 object:2 627 458 object:3 508 455 object:4 630 412 object:5 501 422
+frame:056 5 object:1 418 400 object:2 626 457 object:3 509 454 object:4 630 407 object:5 499 417
+frame:057 5 object:1 418 398 object:2 626 456 object:3 509 453 object:4 630 405 object:5 499 415
+frame:058 5 object:1 417 393 object:2 626 456 object:3 509 452 object:4 629 400 object:5 499 410
+frame:059 5 object:1 416 388 object:2 626 455 object:3 509 451 object:4 628 395 object:5 498 404
+frame:060 5 object:1 416 386 object:2 625 454 object:3 509 450 object:4 628 393 object:5 498 403
+frame:061 5 object:1 416 380 object:2 625 453 object:3 509 449 object:4 627 388 object:5 498 398
+frame:062 5 object:1 414 375 object:2 625 452 object:3 509 448 object:4 627 382 object:5 497 392
+frame:063 5 object:1 414 373 object:2 624 452 object:3 510 447 object:4 626 381 object:5 496 390
+frame:064 5 object:1 414 369 object:2 624 451 object:3 510 446 object:4 625 376 object:5 496 386
+frame:065 5 object:1 413 363 object:2 624 450 object:3 510 445 object:4 624 370 object:5 494 380
+frame:066 5 object:1 412 361 object:2 623 449 object:3 510 444 object:4 624 368 object:5 494 378
+frame:067 5 object:1 412 359 object:2 623 449 object:3 510 443 object:4 623 366 object:5 494 376
+frame:068 5 object:1 411 358 object:2 623 448 object:3 510 442 object:4 622 365 object:5 493 376
+frame:069 5 object:1 411 358 object:2 623 447 object:3 510 441 object:4 622 365 object:5 493 376
+frame:070 5 object:1 411 359 object:2 622 446 object:3 510 440 object:4 622 366 object:5 493 376
+frame:071 5 object:1 410 360 object:2 622 446 object:3 510 439 object:4 622 366 object:5 492 377
+frame:072 5 object:1 410 360 object:2 622 445 object:3 510 437 object:4 622 366 object:5 492 377
+frame:073 5 object:1 410 361 object:2 621 444 object:3 510 436 object:4 622 368 object:5 492 378
+frame:074 5 object:1 409 362 object:2 621 443 object:3 511 436 object:4 621 368 object:5 492 379
+frame:075 5 object:1 409 363 object:2 621 442 object:3 511 435 object:4 621 369 object:5 492 380
+frame:076 5 object:1 409 364 object:2 621 442 object:3 511 434 object:4 620 370 object:5 491 381
+frame:077 5 object:1 408 364 object:2 620 441 object:3 509 432 object:4 620 370 object:5 490 381
+frame:078 5 object:1 407 364 object:2 620 440 object:3 508 431 object:4 620 370 object:5 490 381
+frame:079 5 object:1 407 363 object:2 620 439 object:3 507 430 object:4 619 369 object:5 489 380
+frame:080 5 object:1 406 362 object:2 619 439 object:3 505 429 object:4 618 368 object:5 488 379
+frame:081 5 object:1 406 361 object:2 619 437 object:3 504 429 object:4 618 367 object:5 488 378
+frame:082 5 object:1 405 361 object:2 619 437 object:3 503 427 object:4 617 366 object:5 487 377
+frame:083 5 object:1 404 359 object:2 619 436 object:3 501 426 object:4 616 365 object:5 486 376
+frame:084 5 object:1 404 358 object:2 618 435 object:3 500 425 object:4 616 364 object:5 486 375
+frame:085 5 object:1 403 359 object:2 618 434 object:3 499 424 object:4 615 365 object:5 485 376
+frame:086 5 object:1 402 359 object:2 618 434 object:3 497 423 object:4 614 366 object:5 484 377
+frame:087 5 object:1 401 359 object:2 617 433 object:3 496 422 object:4 614 366 object:5 484 377
+frame:088 5 object:1 401 360 object:2 617 432 object:3 494 421 object:4 613 367 object:5 483 377
+frame:089 5 object:1 400 361 object:2 617 431 object:3 493 420 object:4 612 367 object:5 483 379
+frame:090 5 object:1 400 361 object:2 616 431 object:3 492 419 object:4 612 367 object:5 482 379
+frame:091 5 object:1 400 361 object:2 616 430 object:3 490 418 object:4 612 368 object:5 482 379
+frame:092 5 object:1 399 362 object:2 616 429 object:3 489 417 object:4 611 369 object:5 481 379
+frame:093 5 object:1 399 362 object:2 616 428 object:3 488 416 object:4 610 369 object:5 481 379
+frame:094 5 object:1 398 362 object:2 615 427 object:3 486 415 object:4 610 369 object:5 480 379
+frame:095 5 object:1 397 361 object:2 615 427 object:3 485 414 object:4 609 367 object:5 479 378
+frame:096 5 object:1 397 361 object:2 615 426 object:3 484 413 object:4 608 367 object:5 479 378
+frame:097 5 object:1 396 359 object:2 614 425 object:3 482 412 object:4 607 365 object:5 477 376
+frame:098 5 object:1 394 357 object:2 614 424 object:3 481 411 object:4 606 364 object:5 476 374
+frame:099 5 object:1 393 357 object:2 614 424 object:3 480 410 object:4 605 364 object:5 475 374
+frame:100 5 object:1 391 354 object:2 614 423 object:3 478 409 object:4 603 361 object:5 473 372
+frame:101 5 object:1 389 353 object:2 613 422 object:3 477 408 object:4 601 359 object:5 471 370
+frame:102 5 object:1 388 352 object:2 613 421 object:3 475 407 object:4 600 359 object:5 470 369
+frame:103 5 object:1 386 350 object:2 613 421 object:3 474 406 object:4 598 357 object:5 469 367
+frame:104 5 object:1 384 347 object:2 612 419 object:3 473 405 object:4 597 354 object:5 467 364
+frame:105 5 object:1 384 346 object:2 612 419 object:3 471 404 object:4 596 353 object:5 466 363
+frame:106 5 object:1 383 345 object:2 612 418 object:3 470 403 object:4 594 351 object:5 465 362
+frame:107 5 object:1 381 343 object:2 611 417 object:3 469 402 object:4 593 350 object:5 464 361
+frame:108 4 object:1 381 342 object:3 467 401 object:4 593 349 object:5 463 360
+frame:109 4 object:1 380 341 object:3 466 400 object:4 592 348 object:5 462 358
+frame:110 4 object:1 379 339 object:3 465 399 object:4 591 346 object:5 461 357
+frame:111 4 object:1 379 339 object:3 463 397 object:4 590 345 object:5 461 356
+frame:112 4 object:1 378 338 object:3 462 396 object:4 589 344 object:5 460 355
+frame:113 3 object:1 376 335 object:4 588 342 object:5 459 352
+frame:114 3 object:1 376 334 object:4 588 341 object:5 458 351
+frame:115 3 object:1 375 332 object:4 587 338 object:5 457 349
+frame:116 3 object:1 374 329 object:4 585 335 object:5 456 346
+frame:117 3 object:1 374 328 object:4 584 334 object:5 455 345
+frame:118 3 object:1 372 327 object:4 583 333 object:5 454 344
+frame:119 3 object:1 371 325 object:4 583 331 object:5 453 342
+frame:120 3 object:1 371 324 object:4 582 331 object:5 453 341
+frame:121 3 object:1 371 323 object:4 582 330 object:5 452 340
+frame:122 3 object:1 370 322 object:4 581 328 object:5 452 339
+frame:123 3 object:1 369 321 object:4 581 327 object:5 452 339
+frame:124 3 object:1 369 321 object:4 580 327 object:5 451 339
+frame:125 3 object:1 368 322 object:4 580 328 object:5 451 339
+frame:126 3 object:1 368 322 object:4 580 329 object:5 451 339
+frame:127 3 object:1 367 323 object:4 579 329 object:5 450 340
+frame:128 3 object:1 367 324 object:4 578 330 object:5 448 341
+frame:129 3 object:1 367 324 object:4 578 330 object:5 448 341
+frame:130 3 object:1 366 324 object:4 578 331 object:5 448 341
+frame:131 3 object:1 365 324 object:4 577 331 object:5 447 341
+frame:132 3 object:1 365 324 object:4 576 331 object:5 447 341
+frame:133 3 object:1 364 324 object:4 576 332 object:5 447 342
+frame:134 3 object:1 364 325 object:4 575 332 object:5 446 343
+frame:135 3 object:1 364 325 object:4 575 332 object:5 446 343
+frame:136 3 object:1 363 325 object:4 574 333 object:5 445 343
+frame:137 3 object:1 362 326 object:4 574 333 object:5 444 343
+frame:138 3 object:1 362 326 object:4 574 333 object:5 444 344
+frame:139 3 object:1 361 327 object:4 572 334 object:5 443 344
+frame:140 3 object:1 360 327 object:4 572 334 object:5 442 345
+frame:141 3 object:1 360 327 object:4 572 334 object:5 442 345
+frame:142 3 object:1 358 328 object:4 571 335 object:5 440 346
+frame:143 3 object:1 356 328 object:4 568 335 object:5 439 346
+frame:144 3 object:1 356 328 object:4 568 335 object:5 438 346
+frame:145 3 object:1 355 328 object:4 566 335 object:5 438 346
+frame:146 3 object:1 353 329 object:4 565 335 object:5 436 347
+frame:147 3 object:1 353 329 object:4 565 336 object:5 435 347
+frame:148 3 object:1 352 330 object:4 564 336 object:5 435 348
+frame:149 3 object:1 352 330 object:4 563 336 object:5 434 348
+frame:150 3 object:1 351 330 object:4 563 336 object:5 433 348
+frame:151 3 object:1 351 329 object:4 562 336 object:5 433 347
+frame:152 3 object:1 350 329 object:4 562 336 object:5 432 346
+frame:153 3 object:1 350 329 object:4 562 336 object:5 432 346
+frame:154 3 object:1 349 327 object:4 561 334 object:5 432 345
+frame:155 3 object:1 349 326 object:4 560 333 object:5 430 344
+frame:156 3 object:1 348 326 object:4 560 333 object:5 430 344
+frame:157 3 object:1 348 325 object:4 560 331 object:5 430 342
+frame:158 3 object:1 348 323 object:4 559 330 object:5 430 340
+frame:159 3 object:1 348 323 object:4 558 329 object:5 430 340
+frame:160 3 object:1 347 321 object:4 558 328 object:5 429 338
+frame:161 3 object:1 345 319 object:4 556 326 object:5 427 336
+frame:162 3 object:1 345 318 object:4 556 325 object:5 426 335
+frame:163 3 object:1 344 316 object:4 555 323 object:5 426 333
+frame:164 3 object:1 343 314 object:4 554 320 object:5 425 331
+frame:165 3 object:1 343 313 object:4 554 320 object:5 425 330
+frame:166 3 object:1 342 311 object:4 554 318 object:5 424 329
+frame:167 3 object:1 341 309 object:4 552 315 object:5 422 326
+frame:168 3 object:1 341 308 object:4 552 314 object:5 422 325
+frame:169 3 object:1 339 306 object:4 551 312 object:5 421 323
+frame:170 3 object:1 338 304 object:4 550 311 object:5 420 322
+frame:171 3 object:1 338 303 object:4 550 310 object:5 419 321
+frame:172 3 object:1 337 302 object:4 549 309 object:5 419 320
+frame:173 3 object:1 336 300 object:4 547 306 object:5 417 318
+frame:174 3 object:1 335 300 object:4 546 306 object:5 417 317
+frame:175 3 object:1 334 298 object:4 545 304 object:5 416 315
+frame:176 3 object:1 334 297 object:4 544 303 object:5 415 314
+frame:177 3 object:1 333 296 object:4 544 302 object:5 414 313
+frame:178 3 object:1 333 296 object:4 544 302 object:5 414 313
+frame:179 3 object:1 332 296 object:4 543 303 object:5 413 314
+frame:180 3 object:1 331 296 object:4 543 303 object:5 413 314
+frame:181 3 object:1 331 297 object:4 542 304 object:5 413 315
+frame:182 3 object:1 330 298 object:4 541 305 object:5 412 315
+frame:183 3 object:1 330 298 object:4 541 305 object:5 412 315
+frame:184 3 object:1 329 298 object:4 541 305 object:5 411 316
+frame:185 3 object:1 329 299 object:4 540 306 object:5 410 317
+frame:186 3 object:1 328 299 object:4 540 306 object:5 410 317
+frame:187 3 object:1 328 300 object:4 539 307 object:5 410 317
+frame:188 3 object:1 327 301 object:4 539 307 object:5 409 318
+frame:189 3 object:1 327 301 object:4 538 307 object:5 409 318
+frame:190 3 object:1 326 302 object:4 538 309 object:5 408 319
+frame:191 3 object:1 326 302 object:4 537 309 object:5 408 320
+frame:192 3 object:1 325 303 object:4 537 310 object:5 407 320
+frame:193 3 object:1 325 303 object:4 537 310 object:5 407 321
+frame:194 3 object:1 325 304 object:4 536 311 object:5 407 321
+frame:195 3 object:1 325 304 object:4 536 311 object:5 406 322
+frame:196 3 object:1 325 305 object:4 535 312 object:5 406 322
+frame:197 3 object:1 323 305 object:4 535 312 object:5 405 323
+frame:198 3 object:1 323 306 object:4 535 313 object:5 405 324
+frame:199 3 object:1 323 306 object:4 534 313 object:5 405 324
+frame:200 3 object:1 322 306 object:4 533 313 object:5 404 324
+frame:201 3 object:1 321 307 object:4 534 314 object:5 404 324
+frame:202 3 object:1 321 307 object:4 533 314 object:5 403 324
+frame:203 3 object:1 321 307 object:4 532 314 object:5 403 324
+frame:204 3 object:1 321 307 object:4 532 314 object:5 403 324
+frame:205 3 object:1 320 307 object:4 531 313 object:5 402 324
+frame:206 3 object:1 319 306 object:4 531 313 object:5 401 324
+frame:207 3 object:1 319 306 object:4 531 313 object:5 401 324
+frame:208 3 object:1 318 305 object:4 530 312 object:5 400 323
+frame:209 3 object:1 317 305 object:4 528 311 object:5 399 322
+frame:210 3 object:1 317 305 object:4 528 311 object:5 399 322
+frame:211 3 object:1 316 304 object:4 527 310 object:5 398 321
+frame:212 3 object:1 315 303 object:4 526 310 object:5 397 320
+frame:213 3 object:1 314 303 object:4 526 309 object:5 396 320
+frame:214 3 object:1 313 302 object:4 525 309 object:5 395 319
+frame:215 3 object:1 312 302 object:4 524 308 object:5 394 319
+frame:216 3 object:1 312 302 object:4 523 308 object:5 394 318
+frame:217 3 object:1 311 301 object:4 522 307 object:5 393 318
+frame:218 3 object:1 310 300 object:4 522 306 object:5 392 317
+frame:219 3 object:1 309 300 object:4 521 306 object:5 391 317
+frame:220 3 object:1 308 299 object:4 520 306 object:5 390 316
+frame:221 3 object:1 307 298 object:4 519 304 object:5 389 315
+frame:222 3 object:1 307 297 object:4 518 304 object:5 388 314
+frame:223 3 object:1 305 296 object:4 517 303 object:5 387 313
+frame:224 3 object:1 304 295 object:4 515 301 object:5 386 312
+frame:225 3 object:1 304 294 object:4 515 300 object:5 386 311
+frame:226 3 object:1 303 293 object:4 514 300 object:5 385 310
+frame:227 3 object:1 302 292 object:4 513 298 object:5 383 309
+frame:228 3 object:1 301 291 object:4 512 297 object:5 383 308
+frame:229 3 object:1 300 290 object:4 511 297 object:5 382 307
+frame:230 3 object:1 299 288 object:4 510 295 object:5 381 306
+frame:231 3 object:1 298 287 object:4 510 294 object:5 381 305
+frame:232 3 object:1 298 286 object:4 509 293 object:5 380 304
+frame:233 3 object:1 296 285 object:4 508 292 object:5 378 302
+frame:234 3 object:1 296 284 object:4 507 291 object:5 377 301
+frame:235 3 object:1 294 283 object:4 506 290 object:5 376 300
+frame:236 3 object:1 293 281 object:4 504 288 object:5 375 299
+frame:237 3 object:1 293 280 object:4 504 287 object:5 375 298
+frame:238 3 object:1 291 279 object:4 503 286 object:5 374 297
+frame:239 3 object:1 290 277 object:4 502 284 object:5 372 295
+frame:240 3 object:1 289 276 object:4 501 283 object:5 372 294
+frame:241 3 object:1 289 275 object:4 500 282 object:5 370 293
+frame:242 3 object:1 287 273 object:4 498 280 object:5 369 291
+frame:243 3 object:1 286 272 object:4 498 279 object:5 368 290
+frame:244 3 object:1 286 271 object:4 497 278 object:5 367 289
+frame:245 3 object:1 284 269 object:4 495 276 object:5 366 287
+frame:246 3 object:1 284 269 object:4 495 275 object:5 365 286
+frame:247 3 object:1 283 267 object:4 494 274 object:5 365 284
+frame:248 3 object:1 281 265 object:4 493 271 object:5 363 282
+frame:249 3 object:1 281 264 object:4 492 270 object:5 362 281
+frame:250 3 object:1 280 263 object:4 491 269 object:5 361 280

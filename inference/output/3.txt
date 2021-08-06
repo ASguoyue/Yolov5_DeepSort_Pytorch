@@ -1,0 +1,6 @@
+精准识别小天眼 3 5 3
+frame:001 3 object:1 317 241 object:2 357 251 object:3 199 161
+frame:002 3 object:1 317 241 object:2 357 251 object:3 199 161
+frame:003 3 object:1 317 241 object:2 356 250 object:3 199 161
+frame:004 3 object:1 316 241 object:2 356 250 object:3 201 161
+frame:005 3 object:1 316 241 object:2 356 250 object:3 201 161
